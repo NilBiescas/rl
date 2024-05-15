@@ -1,0 +1,1 @@
+mlagents-learn config/droneAgent_config.yaml --force --run-id=DroneAgens
